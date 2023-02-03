@@ -4,15 +4,11 @@
 
 ### Arduino Compatabilty
 
----
-
-#### One of the great features of the Skipper is its ability to work with the Arduino IDE. A download is required to get you on your way.
+#### One of the great features of the Skipper is its ability to work with the Arduino IDE. A few downloads are required to get you on your way.
 
 ---
 
 ### What is the purpose of this branch?
-
----
 
 #### This directory includes examples and libraries to get you started using your Skipper with Arduino.
 
@@ -52,3 +48,7 @@
 
 12. write your code and click "upload"
     (note, for me the tools > port tab does not show any ports, try uploading with no port selected)
+
+---
+
+#### For instructions regarding specific libraries and functionality, refer to the examples folder.
