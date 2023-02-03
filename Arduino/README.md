@@ -6,7 +6,7 @@
 
 ---
 
-#### One of the great features of the Skipper is its ability to work with the Arduino IDE. A few downloads are required to get you on your way.
+#### One of the great features of the Skipper is its ability to work with the Arduino IDE. A download is required to get you on your way.
 
 ---
 
