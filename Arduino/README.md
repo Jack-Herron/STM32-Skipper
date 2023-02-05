@@ -22,33 +22,33 @@
 
 2. Go to Arduino > Preferences
 
-3. under the "Additional Boards Manager URLs:" box, paste:
+3. Under the "Additional Boards Manager URLs:" box, paste:
 
 > https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
 
-4. click ok and close preferences
+4. Click ok and close preferences
 
-5. go to Tools > Board > Boards manager...
+5. Go to Tools > Board > Boards manager...
 
-6. scoll through until you find "STM32 MCU based boards"
+6. Scoll through until you find "STM32 MCU based boards"
 
 7. Click "Install"
 
-8. close Boards Manager
+8. Close Boards Manager
 
-9. go to Tools > board > STM32 Boards Groups > select "generic STM32F4 series"
+9. Go to Tools > board > STM32 Boards Groups > select "generic STM32F4 series"
 
-10. go to Tools > board part number > select "generic STM32F407zetx" 
+10. Go to Tools > board part number > select "generic STM32F407zetx" 
 
 11. Select upload method
 
-    1. to use SWD port via stlink, go to Tools > Upload Method > "STM32CubeProgrammer(SWD)" (note, for this method, you do not need to select the port)
+    1. To use SWD port via stlink, go to Tools > Upload Method > "STM32CubeProgrammer(SWD)" (note, for this method, you do not need to select the port)
 
-    2. to use micro usb port, go to Tools > Upload Method > click "STM32CubeProgrammer(DFU)", then select the port. For this you must switch the boot switch to boot mode(LED ON), and press reset prior to upload.
+    2. To use micro usb port, go to Tools > Upload Method > click "STM32CubeProgrammer(DFU)", then select the port. For this you must switch the boot switch to boot mode(LED ON), and press reset prior to upload.
 
-    3. to ustilze the serial port, click USB support (if available) > CDC) (note, requires micro USB to be connected)
+    3. To ustilze the serial port (for Print function ect...), click USB support (if available) > CDC) (note, requires micro USB to be connected)
 
-12. write your code and click "upload"
+12. Write your code and click "upload"
     
 
 ---
