@@ -1,0 +1,11 @@
+../Src/Skipper.cpp:13:10:uint32_t Clock::getCoreTimerFreq()	16	static
+../Src/Skipper.cpp:17:10:uint32_t Clock::getCoreFreq()	16	static
+../Src/Skipper.cpp:21:10:uint32_t Clock::getAPB2PeripheralFreq()	16	static
+../Src/Skipper.cpp:25:10:uint32_t Clock::getAPB2TimerFreq()	16	static
+../Src/Skipper.cpp:29:10:uint32_t Clock::getAPB1PeripheralFreq()	16	static
+../Src/Skipper.cpp:33:10:uint32_t Clock::getAPB1TimerFreq()	16	static
+../Src/Skipper.cpp:37:6:void Clock::updateValues()	24	static
+../Src/Skipper.cpp:58:6:void SysTick_Handler()	4	static
+../Src/Skipper.cpp:62:6:void Clock::setParams(uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint16_t, uint8_t)	16	static
+../Src/Skipper.cpp:72:6:void Clock::init()	24	static
+../Src/Skipper.cpp:175:6:void delay_ms(uint32_t)	24	static

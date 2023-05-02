@@ -1,0 +1,6 @@
+../Src/main.cpp:23:6:void Display_init()	16	static
+../Src/main.cpp:29:6:void updatePixel(uint8_t, uint8_t, uint8_t, uint8_t)	32	static
+../Src/main.cpp:39:6:void GPIO_init()	4	static
+../Src/main.cpp:54:6:void DMA_init()	4	static
+../Src/main.cpp:70:6:void Tim2_init()	4	static
+../Src/main.cpp:84:5:int main()	40	static
