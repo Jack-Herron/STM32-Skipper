@@ -1,0 +1,12 @@
+../Inc/Skipper.h:13:6:void clock_init(uint8_t, uint8_t, uint8_t, uint8_t, uint32_t, uint8_t, uint8_t)	16	static
+../Inc/Skipper.h:130:7:void I2C::set_port(I2C_TypeDef*)	16	static
+../Inc/Skipper.h:134:7:void I2C::setGPIO()	16	static
+../Inc/Skipper.h:157:7:void I2C::init()	24	static
+../Inc/Skipper.h:183:7:void I2C::write(unsigned char)	16	static
+../Inc/Skipper.h:188:7:void I2C::address(unsigned char)	24	static
+../Inc/Skipper.h:195:16:unsigned char I2C::read(int)	16	static
+../Inc/Skipper.h:202:7:void I2C::stop()	16	static
+../Inc/Skipper.h:207:7:void I2C::start()	16	static
+../Inc/Skipper.h:119:7:constexpr I2C::I2C()	16	static
+../Src/main.cpp:11:5:int main()	48	static
+../Src/main.cpp:36:6:void GPIO_init()	4	static
