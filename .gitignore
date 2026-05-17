@@ -1,0 +1,19 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# STM32CubeIDE project settings (auto-generated)
+.settings/
+
+# Compiled object files
+*.o
+*.d
+*.su
+
+# Linked binaries and maps
+*.elf
+*.map
+*.list
+
+# Arduino IDE build output
+build/

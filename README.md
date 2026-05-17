@@ -4,7 +4,7 @@
 
 ### The official GitHub repository for all things Skipper!
 
-#### The STM32 Skipper is a powerful STM32F4 micro controller placed onto the ultimate protyping PCB. Some of the features include dedicated serial communication ports, A high voltage SMPS as will as oscilloscope test clips to facilitate hassel-free debugging.
+#### The STM32 Skipper is a powerful STM32F4 micro controller placed onto the ultimate prototyping PCB. Some of the features include dedicated serial communication ports, a high voltage SMPS as well as oscilloscope test clips to facilitate hassle-free debugging.
 
 ---
 

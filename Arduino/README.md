@@ -2,7 +2,7 @@
 
 ---
 
-### Arduino Compatabilty
+### Arduino Compatibility
 
 #### One of the great features of the Skipper is its ability to work with the Arduino IDE. A few downloads are required to get you on your way.
 
@@ -46,7 +46,7 @@
 
     2. To use micro usb port, go to Tools > Upload Method > click "STM32CubeProgrammer(DFU)", then select the port. For this you must switch the boot switch to boot mode(LED ON), and press reset prior to upload.
 
-    3. To ustilze the serial port (for Print function ect...), click USB support (if available) > CDC (note, requires micro USB to be connected)
+    3. To utilize the serial port (for Print function etc...), click USB support (if available) > CDC (note, requires micro USB to be connected)
 
 12. Write your code and click "upload"
 
